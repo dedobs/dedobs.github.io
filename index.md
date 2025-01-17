@@ -1,8 +1,9 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [My Reflections](reflective_blogs.md) | [Deliverables](deliverable1.md) | 
 
 # Welcome to my Digital Portfolio!
-
+&nbsp;
 <a href="url"><img src="https://github.com/user-attachments/assets/aa665b8b-99a1-40e6-a5f9-11e61eb19489" align="left" height="170" width="1050" ></a>
+
 &nbsp;
 ## About Me 
 Hello! My name is Danielle, I am majoring in English Technical Communications and minoring in Legal Studies at UCF. Following the completion of my degree, I hope to work in grant or contract writing either for a non-profit or within the legal field. 
