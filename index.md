@@ -6,7 +6,9 @@
 Hello! My name is Danielle, I am an English Technical Communications major at UCF who is also minoring in Legal Studies. 
 
 ## Academic and Work Experience
-I served as the General Editor for a technical style guide in my Documentation and Project Management class, where I collaborated with peers to create a user-friendly, comprehensive guide. This role involved developing a project style sheet, managing editorial processes, and ensuring consistency in content and style. I also have experience creating a user manual and drafting a grant proposal.
+In terms of technical writing experience, I served as the General Editor for a technical style guide where I collaborated with peers to create a user-friendly, comprehensive guide tobe utilized by students. This role involved developing a project style sheet, managing editorial processes, and ensuring consistency in content and style. Prior experience also includes creating a user manual, drafting a grant proposal, as well as creating both legal and project memorandums. 
+
+Additionally, I have worked within the hospitality/restaurant industry for 7 years. This experience has aided in the development of customer service and time management skills.
 
 ## _A Note on Artificial Intelligence (A.I.)_
 _A.I. has not been used in the creation of this portion of the portfolio; it's use will be explicitly stated in any future posts or projects._
