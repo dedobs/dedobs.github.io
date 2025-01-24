@@ -15,4 +15,4 @@ I have worked within the hospitality/restaurant industry for 7 years as a barsit
 In terms of technical writing experience, I served as the General Editor for a technical style guide where I collaborated with peers to create a user-friendly, comprehensive guide tobe utilized by students. This role involved developing a project style sheet, managing editorial processes, and ensuring consistency in content and style. Prior experience also includes creating a user manual, drafting a grant proposal, as well as creating both legal and project memorandums. 
 
 ## _A Note on Artificial Intelligence (A.I.)_
-_A.I. has not been used in the creation of this portion of the portfolio; it's use will be explicitly stated in any future posts or projects._
+_A.I. has not been used in the creation of this portion of the portfolio; its use will be explicitly stated in any future posts or projects._
