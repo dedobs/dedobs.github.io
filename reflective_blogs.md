@@ -24,21 +24,34 @@ As a modern internet user, I think the most interesting part of visiting an olde
 
 ## [Using the Bodum Bistro Electric Kettle: A Quick-Start Guide](#using-the-bodum-bistro-electric-kettle-a-quick-start-guide)
 #### *Boiling Water in the Bodum Bistro*
-![](https://github.com/user-attachments/assets/daf10bdb-42b4-4230-9fd0-58c4616ce7e0=250x250)
 
-#### 1. Plug In the Base: 
+![Screen Shot 2025-01-31 at 12 31 16 AM](https://github.com/user-attachments/assets/7b9efbcb-8cea-4718-a11a-7156d4836c00)
+
+
+#### 1. Plug in the Base: 
 Connect the kettle’s base to a nearby electrical outlet.
 #### 2. Position the Kettle: 
 Place the kettle on a flat, stable surface, like a countertop or table.
 #### 3. Open the Kettle: 
+
+
+
 Press the circular red release button above the handle to open the kettle lid. It will lift vertically.
 #### 4. Add Water: 
 Fill the kettle with purified or filtered water, ensuring you don’t exceed the maximum water line indicated inside.
 #### 5. Close the Lid: 
 Gently press the lid back down until it’s securely closed.
 #### 6. Place Kettle on Base: 
+
+![Screen Shot 2025-01-31 at 12 39 06 AM](https://github.com/user-attachments/assets/99ad970d-0f29-4cb5-b751-83389a84ec07)
+
+
 Set the kettle on the base so that it sits flush, ensuring proper contact for heating.
 #### 7. Start Heating: 
+
+![one](https://github.com/user-attachments/assets/62c84d30-ae4d-4a77-90d9-7ca3045fe61e)
+
+
 Slide the oval "on" switch forward to begin the boiling process. Water will boil in approximately 20-40 seconds, and the switch will automatically turn off once it’s ready.
    
 > [!CAUTION]
