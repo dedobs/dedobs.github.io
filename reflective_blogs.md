@@ -5,7 +5,7 @@
 - #### Reflection 1 | 23 January 2025 | [Wayback on Amazon](#wayback-on-amazon)
 - #### Reflection 2 | 30 January 2025 | [Using the Bodum Bistro Electric Kettle: A Quick-Start Guide](#using-the-bodum-bistro-electric-kettle-a-quick-start-guide)
   
-### [Wayback on Amazon](#wayback-on-amazon)
+## [Wayback on Amazon](#wayback-on-amazon)
 
 #### *Website Norms: Then and Now*
 ![Screen Shot 2025-01-24 at 2 46 03 AM](https://github.com/user-attachments/assets/28747a2f-1a5b-4ea4-93c4-7abc68cb60a0)
@@ -21,5 +21,26 @@ Conversely, the current website presents clear and distinct categories on the ho
 As a modern internet user, I think the most interesting part of visiting an older version of the Amazon website is how navigation-focused it is, with an endless wall of categories and hyperlinks to match. The website now feels much less cluttered in comparison and places a greater emphasis on actually displaying pictures of products, many of which are suggested based on your browsing. In today's world, websites are expected to be both functional and aesthetically appealing, so when they deviate from this, I think it can completely bar people from using them at all.
 
 
--
-### [Using the Bodum Bistro Electric Kettle: A Quick-Start Guide](#using-the-bodum-bistro-electric-kettle-a-quick-start-guide)
+
+## [Using the Bodum Bistro Electric Kettle: A Quick-Start Guide](#using-the-bodum-bistro-electric-kettle-a-quick-start-guide)
+#### *Boiling Water in the Bodum Bistro*
+![](https://github.com/user-attachments/assets/daf10bdb-42b4-4230-9fd0-58c4616ce7e0=250x250)
+
+#### 1. Plug In the Base: 
+Connect the kettle’s base to a nearby electrical outlet.
+#### 2. Position the Kettle: 
+Place the kettle on a flat, stable surface, like a countertop or table.
+#### 3. Open the Kettle: 
+Press the circular red release button above the handle to open the kettle lid. It will lift vertically.
+#### 4. Add Water: 
+Fill the kettle with purified or filtered water, ensuring you don’t exceed the maximum water line indicated inside.
+#### 5. Close the Lid: 
+Gently press the lid back down until it’s securely closed.
+#### 6. Place Kettle on Base: 
+Set the kettle on the base so that it sits flush, ensuring proper contact for heating.
+#### 7. Start Heating: 
+Slide the oval "on" switch forward to begin the boiling process. Water will boil in approximately 20-40 seconds, and the switch will automatically turn off once it’s ready.
+   
+> [!CAUTION]
+> Always ensure the kettle is placed securely on the base before use, and never exceed the maximum water level to prevent spills or overheating.
+
