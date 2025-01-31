@@ -23,37 +23,43 @@ As a modern internet user, I think the most interesting part of visiting an olde
 
 
 ## [Using the Bodum Bistro Electric Kettle: A Quick-Start Guide](#using-the-bodum-bistro-electric-kettle-a-quick-start-guide)
-#### *Boiling Water in the Bodum Bistro*
 
+
+> [!CAUTION]
+> Keep out of reach from children. Always exercise caution when handling boiling water, failure to do so may result in serious injury.
+### <ins>*Getting Started with the Bodum Bistro*</ins>
+
+#### Diagram: Main Components
 ![Screen Shot 2025-01-31 at 12 31 16 AM](https://github.com/user-attachments/assets/7b9efbcb-8cea-4718-a11a-7156d4836c00)
 
 
-#### 1. Plug in the Base: 
+### <ins>*Boiling Water in the Bodum Bistro*</ins>
+#### 1. Plug in the kettle base: 
 Connect the kettle’s base to a nearby electrical outlet.
-#### 2. Position the Kettle: 
+#### 2. Position the kettle: 
 Place the kettle on a flat, stable surface, like a countertop or table.
-#### 3. Open the Kettle: 
+#### 3. Open the kettle: 
 
-
+![Screen Shot 2025-01-31 at 12 43 30 AM](https://github.com/user-attachments/assets/797c9d77-e75c-4083-8ad1-6813937c79ba)
 
 Press the circular red release button above the handle to open the kettle lid. It will lift vertically.
-#### 4. Add Water: 
-Fill the kettle with purified or filtered water, ensuring you don’t exceed the maximum water line indicated inside.
-#### 5. Close the Lid: 
+#### 4. Add water to the kettle water reserve: 
+Fill the kettle water reserve with purified or filtered water, ensuring you don’t exceed the maximum water line indicated inside.
+#### 5. Close the lid: 
 Gently press the lid back down until it’s securely closed.
-#### 6. Place Kettle on Base: 
+#### 6. Place kettle on base: 
 
 ![Screen Shot 2025-01-31 at 12 39 06 AM](https://github.com/user-attachments/assets/99ad970d-0f29-4cb5-b751-83389a84ec07)
 
-
 Set the kettle on the base so that it sits flush, ensuring proper contact for heating.
-#### 7. Start Heating: 
+
+#### 7. Bring water to a boil: 
 
 ![one](https://github.com/user-attachments/assets/62c84d30-ae4d-4a77-90d9-7ca3045fe61e)
 
-
 Slide the oval "on" switch forward to begin the boiling process. Water will boil in approximately 20-40 seconds, and the switch will automatically turn off once it’s ready.
-   
+
+#### 7. Pour water and enjoy.    
 > [!CAUTION]
 > Always ensure the kettle is placed securely on the base before use, and never exceed the maximum water level to prevent spills or overheating.
 
