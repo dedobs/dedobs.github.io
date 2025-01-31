@@ -3,7 +3,8 @@
 ## My Reflections 
 #### Table of Contents 
 - #### Reflection 1 | 23 January 2025 | [Wayback on Amazon](#wayback-on-amazon)
----
+- #### Reflection 2 | 30 January 2025 | [Using the Bodum Bistro Electric Kettle: A Quick-Start Guide](#using-the-bodum-bistro-electric-kettle-a-quick-start-guide)
+  
 ### [Wayback on Amazon](#wayback-on-amazon)
 
 #### *Website Norms: Then and Now*
@@ -19,3 +20,6 @@ Conversely, the current website presents clear and distinct categories on the ho
 
 As a modern internet user, I think the most interesting part of visiting an older version of the Amazon website is how navigation-focused it is, with an endless wall of categories and hyperlinks to match. The website now feels much less cluttered in comparison and places a greater emphasis on actually displaying pictures of products, many of which are suggested based on your browsing. In today's world, websites are expected to be both functional and aesthetically appealing, so when they deviate from this, I think it can completely bar people from using them at all.
 
+
+-
+### [Using the Bodum Bistro Electric Kettle: A Quick-Start Guide](#using-the-bodum-bistro-electric-kettle-a-quick-start-guide)
