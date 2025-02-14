@@ -70,3 +70,19 @@ Slide the oval "on" switch forward to begin the boiling process. Water will boil
 
 #### *Use any generative AI to generate an assignment (or some other piece of writing) that you have already completed. Share the prompt you used, the results you received, and a brief analysis of the strengths and weaknesses of the software.*
 
+For this reflection, I utilized ChatGPT to complete the Wayback assignment using the exact prompt we were given. Additionally, I asked that ChatGPT complete this prompt in a concise, short response. The results were the following:
+
+> **"Observations**  
+> Exploring an early version of Amazon through the Wayback Machine revealed a cluttered and text-heavy layout. The homepage featured long lists of categories with minimal imagery and poor contrast between text and background. Navigation was simple but overwhelming, with no clear structure or visual hierarchy.  
+> **The Experience**  
+> As a modern user, navigating this site was frustrating. It lacked the clean, intuitive design we expect today, and tasks like finding products were more challenging. There were no mobile optimizations, and the overall design felt outdated.  
+> **Modern Web Design Norms**  
+> Today’s websites prioritize minimalist design, clear visual hierarchy, and mobile responsiveness. These features create a smoother, more user-friendly experience, with easy navigation and fast load times.  
+> **Conclusion**  
+> Visiting an older Amazon site emphasized how much web design has evolved. The shift to simpler, more user-friendly websites is evident, and these design standards are now expected across the internet. This analysis highlighted the importance of usability and accessibility in shaping modern web design."
+
+In terms of strengths, ChatGPT did a good job of breaking down complex ideas by dividing main sections of the response with distinct sub-sections. One of the greatest strengths of the ChatGPT version is creating a very polished and clean response that is concise and easy to read. The information is well-organized and discusses general features of the past Amazon website, discussing the actual experience of looking at the Wayback version. Additionally, the current Amazon website is compared to this older version and highlights broadly true aspects of this current site, specifically the easy navigation and faster load times.
+
+Although there are clear strengths to the ChatGPT response, certain weaknesses are evident especially in terms of actual content. Much of the response is somewhat vague and could easily be applied to most shopping websites. This version lacks specific detail and clear understanding of physical aspects of a website only stating there’s “minimal imagery” or “poor contrast.” Likewise, much of the information isn’t necessarily true and instead comes across as the best guess of how an older website interface would hold up to a newer website interface.
+
+**Note on AI:** Spellcheck and ChatGPT were used in this assignment. ChatGPT was used to generate the previous assignment text prompt.
