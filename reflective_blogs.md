@@ -4,6 +4,7 @@
 #### Table of Contents 
 - #### Reflection 1 | 23 January 2025 | [Wayback on Amazon](#wayback-on-amazon)
 - #### Reflection 2 | 30 January 2025 | [Using the Bodum Bistro Electric Kettle: A Quick-Start Guide](#using-the-bodum-bistro-electric-kettle-a-quick-start-guide)
+- #### Reflection 3 | 13 February 2025 | [Reflecting on Past Deliverables](#reflecting-on-past-deliverables)
   
 ## [Wayback on Amazon](#wayback-on-amazon)
 
@@ -62,4 +63,10 @@ Slide the oval "on" switch forward to begin the boiling process. Water will boil
 #### 7. Pour water and enjoy.    
 > [!CAUTION]
 > Always ensure the kettle is placed securely on the base before use, and never exceed the maximum water level to prevent spills or overheating.
+
+
+
+## [Reflecting on Past Deliverables](#reflecting-on-past-deliverables)
+
+#### *Reflect on one of your completed Deliverables for this course. What was easy for you? What was more difficult? Why? What did completing this assignment teach you about yourself and technical communication? What would you do differently based on the instructor's feedback?*
 
