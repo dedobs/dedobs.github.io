@@ -8,7 +8,7 @@
 **SUBJECT:** Brother BM3500 Manual Assessment  
 **DATE:** February 13, 2025  
 
-This memo will cover the efficiencies, inefficiencies, and recommended alterations of the Brother BM3500 user manual and can be found here.
+This memo will cover the efficiencies, inefficiencies, and recommended alterations of the Brother BM3500 user manual and can be found [here](https://download.brother.com/welcome/doch000266/bm35002600ug01en.pdf).
 
 This manual contains six separate sections covering topics such as sewing machine use, accessories, special functions, and maintenance information. The starting contents highlights safety considerations and recommended practices for extending the product lifespan. This is followed by sections covering different stitch functions with appropriate pictorial examples of the written instructions. Lastly, the manual is concluded with sections discussing different accessories and applications, maintenance information, and the manual appendix.
 
