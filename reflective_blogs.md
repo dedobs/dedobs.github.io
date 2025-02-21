@@ -5,6 +5,7 @@
 - #### Reflection 1 | 23 January 2025 | [Wayback on Amazon](#wayback-on-amazon)
 - #### Reflection 2 | 30 January 2025 | [Using the Bodum Bistro Electric Kettle: A Quick-Start Guide](#using-the-bodum-bistro-electric-kettle-a-quick-start-guide)
 - #### Reflection 3 | 13 February 2025 | [Generative A.I. and Past Assignments](#generative-ai-and-past-assignments)
+- #### Reflection 4 | 20 February 2025 | [Professional Assessment](#professional-assessment)
   
 ## [Wayback on Amazon](#wayback-on-amazon)
 
@@ -86,3 +87,6 @@ In terms of strengths, ChatGPT did a good job of breaking down complex ideas by 
 Although there are clear strengths to the ChatGPT response, certain weaknesses are evident especially in terms of actual content. Much of the response is somewhat vague and could easily be applied to most shopping websites. This version lacks specific detail and clear understanding of physical aspects of a website only stating there’s “minimal imagery” or “poor contrast.” Likewise, much of the information isn’t necessarily true and instead comes across as the best guess of how an older website interface would hold up to a newer website interface.
 
 **Note on AI:** Spellcheck and ChatGPT were used in this assignment. ChatGPT was used to generate the previous assignment text prompt.
+
+## [Professional Assessment](#professional-assessment)
+#### *Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why.*
