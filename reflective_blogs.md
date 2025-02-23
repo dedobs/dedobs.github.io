@@ -90,3 +90,11 @@ Although there are clear strengths to the ChatGPT response, certain weaknesses a
 
 ## [Professional Assessment](#professional-assessment)
 #### *Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why.*
+
+I assessed a Singer sewing machine user manual for this reflection, found [here](https://www.singer.com.tr/assets/img/uploads/product-files/dbace176ea069861e0790a36753f030d_en.pdf). 
+
+This guide contained several postive aspects, namely in organization and imagery. The guide has a clear table of contents and is divided into seperate chapters with relevant subsections. Overall, navigation is cohesive and it is easy to find particular subject matter within the guide. In terms of actual content, directions are generally clear and easy to follow and understand. The manual contains relevant imagery throughout it, including in the frorm of labeled diagrams and instructional imagery depicting written steps. These are effective elements as they improve overall user experience while also aiding the reader in understanding the written direction provided.
+
+There are a few drawbacks of the Singer manual, particularly due to the fact that it is missing an index and there are some design and spacing flaws. While overall navigation is well formatted, an index would help readers navigate more specific topics within the guide versus the broader chapters within the table of contents. Additionally, the actual steps (meaning the written instruction and instructional imagery) could be better spaced out from a design perspective so they are more clearly divided through out the document. Removing such visual clutter can help keep the reader from being overwhelmed with information which improves usability of the manual. 
+
+**Note on AI:** Spellcheck through Microsoft Word was used in this assignment.
