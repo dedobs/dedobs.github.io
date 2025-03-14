@@ -7,6 +7,7 @@
 - #### Reflection 3 | 13 February 2025 | [Generative A.I. and Past Assignments](#generative-ai-and-past-assignments)
 - #### Reflection 4 | 20 February 2025 | [Professional Assessment](#professional-assessment)
 - #### Reflection 5 | 6 March 2025 | [Analyzing Britannica Chatbot](#analyzing-britannica-chatbot)
+- #### Reflection 6 | 13 March 2025 | [Reflection on A.I.](#reflection-on-ai)
   
 ## [Wayback on Amazon](#wayback-on-amazon)
 
@@ -110,3 +111,7 @@ The purpose of this chatbox is to help users find answers to questions which can
 Functionally, this program was easy to use, well designed, and had useful additional features that enhanced user experience. Responses were concise and on topic, which makes it useful for historical or definitional searches. The only drawback I can think of is that more complex questions aren't always met with in depth explanations, instead producing oversimplistic responses. Overall, this chatbot would be helpful to users looking for accurate and concise responses while also breaking down the massive amounts of information availible on the website.
 
 **Note on AI:** Spellcheck through Microsoft Word was used in this assignment.
+
+## [Reflection on A.I.](#reflection-on-ai)
+#### *After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?*
+For my Chatbot, I created the 
