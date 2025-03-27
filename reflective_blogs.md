@@ -8,6 +8,7 @@
 - #### Reflection 4 | 20 February 2025 | [Professional Assessment](#professional-assessment)
 - #### Reflection 5 | 6 March 2025 | [Analyzing Britannica Chatbot](#analyzing-britannica-chatbot)
 - #### Reflection 6 | 13 March 2025 | [Reflection on A.I.](#reflection-on-ai)
+- #### Reflection 7 | 26 March 2025 | [Resume Reflection](#resume-reflection)
   
 ## [Wayback on Amazon](#wayback-on-amazon)
 
@@ -119,3 +120,9 @@ For my Chatbot, I created the Tchaikovsky Chatbot which has the main function of
 To correct these issues, I modified my chatbot with the following prompts: "Avoid language that might seem judgmental or dismissive. / Be inclusive in your examples and explanations, consider multiple perspectives, and avoid stereotypes." This provided for a warmer tone that prompted the chatbot to respond in a more empathetic and inviting manner. Similiarly, I also adjusted its responses to explore the emotional side of Tchaikovsky’s music. As far as the future of AI, I think it will be able exhibit a more natural response capability or at the very least be streamlined in such a way that it needs less prompting or user corrections. Likewise, chatbots are only the tip of the iceberg when it comes to AI, so I think in a broader sense it will revolutionize the future of a multitude of industries.
 
 **Note on AI:** Spellcheck through Microsoft Word was used in this assignment.
+
+## [Resume Reflection](#resume-reflection)
+#### *Upload your resume to a generative AI tool of your choice. Ask it what position you are best suited for, then ask it to revise your resume to make it more appealing to a future employer in your ideal field. Post: A summary of the suggested changes and a reflection. What did it do? What did you learn?*
+Using BoodleBox, I uploaded my resume and asked what field/job I'd be most suitable for based on the most current version of it. According to Perplexity, my resume is best suited for a technical writer or a virtual paralegal. These are actually both fields I'd like to get into following graduation, so I asked Perplexity to refine my resume to better suit the technical writing field specifically. According to the chatbot, 
+
+**Note on AI:** Spellcheck through Microsoft Word and BoodleBox/Perplexity were used in this assignment.
