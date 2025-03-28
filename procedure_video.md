@@ -3,7 +3,8 @@
 
 # Procedure Video
 
-[![Watch the video](https://img.youtube.com/vi/iadzYtX4ERU/maxresdefault.jpg)](https://youtu.be/iadzYtX4ERU)
 
-### [Watch this video on YouTube](https://youtu.be/iadzYtX4ERU)
+![Screen Shot 2025-03-28 at 10 38 42 AM](https://github.com/user-attachments/assets/23b4d099-563a-477e-9bec-0f613d860052))](https://dani112648.substack.com/p/procedure-video)
+
+### [Watch this video on Substack](https://dani112648.substack.com/p/procedure-video)
 
