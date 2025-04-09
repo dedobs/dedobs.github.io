@@ -2,7 +2,15 @@
 
 # Getting Started with iMovie
 
+
 ![image](https://github.com/user-attachments/assets/296dc090-39f7-4889-b056-280e1ffcfd5f)
+
+
+## Introduction
+
+iMovie is a free video editing software available to Mac users and can be used to create a variety of media projects. This can range from a simple film trailer, mid-length film, or a visual and audio presentation. This manual will serve as a step-by-step guide for creating, editing, and exporting your first movie project. 
+
+For ease of access, all portions of the guide are hyperlinked and navigable using the above Table of Contents. Additionally, a troubleshooting section will be located at the end of the guide to aid in any potential issues and a PDF version of the guide provided for convenient download.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -16,16 +24,10 @@
 6. [Appendix](#appendix)
 7. [Works Cited](#works-cited)
 
-
-## Introduction
-
-iMovie is a free video editing software available to Mac users and can be used to create a variety of media projects. This can range from a simple film trailer, mid-length film, or a visual and audio presentation. This manual will serve as a step-by-step guide for creating, editing, and exporting your first movie project. 
-
-For ease of access, all portions of the guide are hyperlinked and navigable using the above Table of Contents. Additionally, a troubleshooting section will be located at the end of the guide to aid in any potential issues and a PDF version of the guide provided for convenient download.
-
 ## Getting Started
 
 This portion of the guide will walk you through basic procedures for creating a new movie project, adding clips to your project, and basic clip editing. You will learn how to start a new project, import media files, and organize your clips within the timeline. Additionally, we will cover trimming and cutting clips in order to remove unnecessary sections, adjust clip lengths, and improve the overall video flow. 
+
 
 ### Creating a Movie
 
@@ -46,6 +48,7 @@ To begin creating your first movie, you’ll first access the iMovie app. Follow
 
 
 > **NOTE:** Choosing **Movie** will allow you to create a video project with no template; a **Trailer** will provide several short video template options. If you choose **Trailer**, simply choose one of the template options and press the **Create** button located on the bottom right of the page.
+
 
 ### Importing and Adding Clips
 
@@ -86,6 +89,7 @@ Clips are any media imported into iMovie and appear in the **All Clips** option 
 
 ![image](https://github.com/user-attachments/assets/a2436476-607d-4986-aa6a-f08568698fbc)
 
+
 ## Modifying Clip Audio
 
 Audio is an important part of any video project, and iMovie provides several tools to adjust and enhance the audio of your clips. This portion of the will demonstrate how to adjust volume levels, mute audio, and incorporate background music, as well as separating audio from video.
@@ -102,6 +106,8 @@ Audio is an important part of any video project, and iMovie provides several too
 
 6. If you want to separate the audio from the video, right-click on the clip in the timeline and select **Detach Audio**. This allows you to move or edit the audio independently of the video.
 
+
+
 ## Exporting and Sharing Your Movie
 
 After completing your movie and making all necessary adjustments, the final step is to export and share your project. iMovie allows you to export your movie in a variety of formats and resolutions, and share it across different platforms.
@@ -116,12 +122,12 @@ Below are the steps to export and share your movie.
 
 > **NOTE:** There are several resolution options you can choose from which will affect export quality. This includes resolutions such as 720p, 1080p, or 4K. Which export resolution you choose will depend on the quality of your project and where you plan to share it.
 
-
 4. For quality, select the desired level, such as Low, Medium, or High.
 
 5. For compression, you can choose between faster export (with lower file size) or better quality (with a larger file size).
 
 6. Once the settings are adjusted, choose where you would like to save the file on your computer.
+
 
 
 ## Troubleshooting
