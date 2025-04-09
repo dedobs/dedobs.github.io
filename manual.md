@@ -5,22 +5,17 @@
 ![image](https://github.com/user-attachments/assets/296dc090-39f7-4889-b056-280e1ffcfd5f)
 
 ## Table of Contents
-> [Introduction](#introduction)
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
+   1. [Creating a Movie](#creating-a-movie)
+   2. [Importing and Adding Clips](#importing-and-adding-clips)
+   3. [Trimming and Cutting Clips](#trimming-and-cutting-clips)
+3. [Modifying Clip Audio](#modifying-clip-audio)
+4. [Exporting and Sharing Your Movie](#exporting-and-sharing-your-movie)
+5. [Troubleshooting](#troubleshooting)
+6. [Appendix](#appendix)
+7. [Works Cited](#works-cited)
 
-> [Getting Started](#getting-started)
-   - [Creating a Movie](#creating-a-movie)
-   - [Importing and Adding Clips](#importing-and-adding-clips)
-   - [Trimming and Cutting Clips](#trimming-and-cutting-clips)
-
-> [Modifying Clip Audio](#modifying-clip-audio)
-
-> [Exporting and Sharing Your Movie](#exporting-and-sharing-your-movie)
-
-> [Troubleshooting](#troubleshooting)
-
-> [Appendix](#appendix)
-
-> [Works Cited](#works-cited)
 
 ## Introduction
 
@@ -130,6 +125,52 @@ Below are the steps to export and share your movie.
 
 
 ## Troubleshooting
+
+While using iMovie, you might encounter a few issues during the editing or exporting process. Below are some common problems and their solutions:
+
+### 1. **Movie Won't Export**
+
+If you're having trouble exporting your movie, try the following steps:
+
+- **Check your storage space:** Ensure that your Mac has enough storage space to save the exported movie. If the drive is nearly full, free up some space by deleting unnecessary files or moving them to an external drive.
+- **Close other applications:** Closing other applications can help improve performance during the export process.
+- **Restart iMovie and your Mac:** Sometimes, simply restarting the application or your computer can resolve minor bugs or glitches.
+- **Update iMovie:** Ensure that you are using the latest version of iMovie. Check the Mac App Store for updates and install them if needed.
+
+### 2. **Audio is Out of Sync**
+
+If your audio becomes desynchronized with the video, try the following steps:
+
+- **Check the timeline:** Ensure that the audio and video clips are properly aligned in the timeline. You can manually adjust the audio by dragging it to the correct position.
+- **Detach the audio:** If you’ve added external audio or music, right-click on the video clip in the timeline and select **Detach Audio**. This allows you to move or adjust the audio independently of the video.
+
+
+### 3. **Clips are Gone or Out of Sync**
+
+If clips have disappeared from the timeline or you can't find them, follow these steps:
+
+- **Check the media library:** Ensure that all the media you need has been imported correctly. If clips are missing, go back to the **My Media** tab and re-import the files.
+- **Zoom out on the timeline:** Sometimes, clips may appear to be missing because they are out of view. Try zooming out on the timeline by clicking on the zoom slider located in the top-right corner of the timeline to see the full project.
+- **Check the clips are not hidden:** Make sure that the clips are not accidentally hidden by selecting the **Show/Hide Clip** button in the timeline.
+
+### 4. **Video is Low Quality After Export**
+
+If your exported video appears blurry or pixelated, you can:
+
+- **Increase the export resolution:** When exporting, choose a higher resolution from the export settings to improve the quality of the video.
+- **Choose High Quality for Export Settings:** Ensure that the export settings are set to High quality and select the best compression option.
+- **Check your source footage quality:** If the original clips are of low quality, they may appear blurry after exporting. Try to use higher resolution footage when possible for better final results.
+
+### 5. **Audio Not Playing in Exported Movie**
+
+If the audio is missing or not playing after exporting the movie, follow these steps:
+
+- **Check audio levels:** Make sure the audio is not muted or set to a very low volume in the timeline.
+- **Check audio file compatibility:** Ensure that the audio files used are in a compatible format for iMovie such as.
+- **Re-export the project:** Sometimes, re-exporting the movie can fix issues with audio playback.
+
+If you're still experiencing problems after trying these solutions, consider visiting the Apple Support website or reaching out to Apple Support for additional assistance.
+
 
 ## Appendix
 
