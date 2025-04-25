@@ -10,9 +10,13 @@
 
 iMovie is a free video editing software available to Mac users and can be used to create a variety of media projects. This can range from a simple film trailer, mid-length film, or a visual and audio presentation. This manual will serve as a step-by-step guide for creating, editing, and exporting your first movie project. 
 
-For ease of access, all portions of the guide are hyperlinked and navigable using the above Table of Contents. Additionally, a troubleshooting section will be located at the end of the guide to aid in any potential issues. To access the guide, click <a href="https://github.com/user-attachments/files/19903879/dobson_manual.docx)" download>here</a> for convenient download.
+For ease of access, all portions of the guide are hyperlinked and navigable using a Table of Contents. Additionally, a troubleshooting section and glossary will be located at the end of the guide to aid in any potential issues. 
 
+The full guide can be accessed and downloaded here:
+[dobson_manual.docx](https://github.com/user-attachments/files/19903926/dobson_manual.docx)
 
+## AI Statement 
+Microsoft Word spell check and Grammarly were utilized in the creation of this guide.
 
 
 
