@@ -1,4 +1,4 @@
-[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [My Reflections](reflective_blogs.md) | [Deliverables](deliverable1.md) | 
+[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Manual](manual.md) | [My Reflections](reflective_blogs.md) | 
 <`rgb(9, 105, 218)`	
 # Chatbot
 For this assignment, I created a chatbot which is focused on the life and works of the Russian composer Pyotr Tchaikovsky. I came up with this idea because I often listen to him when doing schoolwork and recently watched a short documentary on his life, so I thought it would be a fun project to create. Using Boodlebox, I created a bot which is professional and friendly. The ultimate purpose of this chatbot is to answer any questions pertaining to Tchaikovsky, namely his life, works, and compositions. The following is the information I wrote in creation of this bot: 
